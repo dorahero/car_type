@@ -1,0 +1,5 @@
+train: /home/jovyan/yolo_data/train/images
+val: /home/jovyan/yolo_data/valid/images
+
+nc: 8
+names: ['altis_2014', 'yaris_2006', 'vios_2000', 'rav4_2013', 'tiida_2013', 'livina_2014', 'crv_2017', 'fit_2015']

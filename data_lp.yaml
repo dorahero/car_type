@@ -1,0 +1,5 @@
+train: /home/jovyan/yolo_data/train/images
+val: /home/jovyan/yolo_data/valid/images
+
+nc: 2
+names: ['lp', 'no_lp']
